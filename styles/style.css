@@ -124,7 +124,7 @@ main {
     flex-direction: column;
     gap: 32px;
 
-    header {
+    h2 {
         font-family: 'EB Garamond', 'Times New Roman', Times, serif;
         font-size: 28px;
         font-weight: 500;
@@ -132,7 +132,7 @@ main {
         display: flex;
         flex-direction: column;
 
-        p {
+        span {
             line-height: 1.15em;
         }
         :first-child {
